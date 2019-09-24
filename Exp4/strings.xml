@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Myapp4</string>
+    <string name="action_settings">Settings</string>
+    <string name="message">CHANGE FONT</string>
+    <string name="message2">CHANGE COLOUR</string>
+    <string name="text">Hello Developers!</string>
+</resources>

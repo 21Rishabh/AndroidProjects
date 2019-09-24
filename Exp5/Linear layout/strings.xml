@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="text1">Vertical Orientation</string>
+    <string name="text2">Horizontal Orientation</string>
+    <string name="text3">Change size</string>
+    <string name="text4">Change color</string>
+    <string name="text5">Change background</string>
+    <string name="text6">Change size</string>
+    <string name="text7">Change color</string>
+</resources>

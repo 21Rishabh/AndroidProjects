@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="text1">Single Activity</string>
+    <string name="text2"> Hello Android Developers!</string>
+
+</resources>

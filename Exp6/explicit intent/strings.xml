@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Myexplicit</string>
+    <string name="action_settings">Settings</string>
+    <string name="text1"> This is First activity</string>
+
+    <string name="text2">Go</string>
+    <string name="text3">Welcome Rishabh, This is your second activity click on text to go back to first Activity</string>
+</resources>
