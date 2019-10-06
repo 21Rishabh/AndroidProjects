@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Emi calculator</string>
+    <string name="heading"> Personal EMI Calculator</string>
+    <string name="name"> Full Name</string>
+    <string name="loan">Loan Amount</string>
+    <string name="rate">Interest</string>
+    <string name="tenure">Duration</string>
+    <string name="emi">EMI</string>
+    <string name="verify">Check to verify details.</string>
+</resources>
