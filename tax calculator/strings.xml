@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Taxcalculator</string>
+    <string name="heading">Income Tax Calculator</string>
+    <string name="name">Name</string>
+    <string name="year"> Assessment Year</string>
+    <string name="age">Age</string>
+    <string name="heading2">Enter the following details below</string>
+    <string name="salary">Basic Salary</string>
+    <string name="hra">HRA</string>
+    <string name="ta">Travel Concession</string>
+    <string name="perq">Company Perquisites</string>
+    <string name="med">Any Medical reimbursement</string>
+    <string name="age1">Under 60 yrs</string>
+    <string name="age2">Between 60 and 80 yrs</string>
+    <string name="age3">Above 80 yrs</string>
+    <string name="but">Net Tax Payable</string>
+
+</resources>
