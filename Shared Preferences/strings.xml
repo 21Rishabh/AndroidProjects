@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">sharedpreferences</string>
+    <string name="head">Storing data </string>
+    <string name="name"> Enter Name</string>
+    <string name="id"> Enter id </string>
+    <string name="age">Enter Age</string>
+    <string name="address">Enter Address</string>
+</resources>
